@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tab Google Play Activity</string>
+    <string name="tab_text_1">HOME</string>
+    <string name="tab_text_2">GAMES</string>
+    <string name="tab_text_3">MOVIES</string>
+    <string name="tab_text_4">BOOKS</string>
+</resources>
